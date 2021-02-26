@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ACNH-new/static/css/main.502516ec.chunk.css",
+    "main.js": "/ACNH-new/static/js/main.4e3fb53d.chunk.js",
+    "main.js.map": "/ACNH-new/static/js/main.4e3fb53d.chunk.js.map",
+    "runtime-main.js": "/ACNH-new/static/js/runtime-main.d7c5edbf.js",
+    "runtime-main.js.map": "/ACNH-new/static/js/runtime-main.d7c5edbf.js.map",
+    "static/js/2.0666183d.chunk.js": "/ACNH-new/static/js/2.0666183d.chunk.js",
+    "static/js/2.0666183d.chunk.js.map": "/ACNH-new/static/js/2.0666183d.chunk.js.map",
+    "static/js/3.0ac1572d.chunk.js": "/ACNH-new/static/js/3.0ac1572d.chunk.js",
+    "static/js/3.0ac1572d.chunk.js.map": "/ACNH-new/static/js/3.0ac1572d.chunk.js.map",
+    "index.html": "/ACNH-new/index.html",
+    "static/css/main.502516ec.chunk.css.map": "/ACNH-new/static/css/main.502516ec.chunk.css.map",
+    "static/js/2.0666183d.chunk.js.LICENSE.txt": "/ACNH-new/static/js/2.0666183d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ACNH-new/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7c5edbf.js",
+    "static/js/2.0666183d.chunk.js",
+    "static/css/main.502516ec.chunk.css",
+    "static/js/main.4e3fb53d.chunk.js"
+  ]
+}
