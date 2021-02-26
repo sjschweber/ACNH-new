@@ -11,7 +11,7 @@ export default function Sorter(props){
 
 
           return(
-            <div class="w-52 h-auto bg-opacity-50 bg-yellow-100 shadow-xl rounded-lg m-4 hover:bg-opacity-75">
+            <div class="w-52 h-auto bg-opacity-50 bg-yellow-100 shadow-xl rounded-lg m-4 hover:bg-opacity-75 transition duration-500 transform hover:-translate-y-1 hover:scale-110">
 
               <div class="h-auto w-full hover:shadow-inner pt-2">
                 <img class="order-1 rounded-full w-24 h-22 border-gray-100 shadow-small" src={process.env.PUBLIC_URL + `${image}`}/>
@@ -37,9 +37,9 @@ export default function Sorter(props){
 
 
           return(
-            <div class="w-52 h-auto bg-opacity-50 bg-yellow-100 shadow-xl rounded-lg m-4 hover:bg-opacity-75">
+            <div class="w-52 h-auto bg-opacity-50 bg-yellow-100 shadow-xl rounded-lg m-4 hover:bg-opacity-75 transition duration-500 transform hover:-translate-y-1 hover:scale-110">
 
-              <div class="h-auto w-full hover:shadow-inner pt-2">
+              <div class="h-auto w-full  hover:shadow-inner pt-2">
                 <img class="order-1 rounded-full w-24 h-22 border-gray-100 shadow-small" src={process.env.PUBLIC_URL + `${image}`}/>
 
               </div>
@@ -63,7 +63,7 @@ export default function Sorter(props){
 
 
           return(
-            <div class="w-52 h-auto bg-opacity-50 bg-yellow-100 shadow-xl rounded-lg m-4 hover:bg-opacity-75">
+            <div class="w-52 h-auto bg-opacity-50 bg-yellow-100 shadow-xl rounded-lg m-4 hover:bg-opacity-75 transition duration-500 transform hover:-translate-y-1 hover:scale-110">
 
               <div class="h-auto w-full hover:shadow-inner pt-2">
                 <img class="order-1 rounded-full w-24 h-22 border-gray-100 shadow-small" src={process.env.PUBLIC_URL + `${image}`}/>
@@ -87,7 +87,7 @@ export default function Sorter(props){
         {sortByType(data).map(({name, personality, catchphrase, ranking, type, image}) => {
 
           return(
-            <div class="w-52 h-auto bg-opacity-50 bg-yellow-100 shadow-xl rounded-lg m-4 hover:bg-opacity-75">
+            <div class="w-52 h-auto bg-opacity-50 bg-yellow-100 shadow-xl rounded-lg m-4 hover:bg-opacity-75 transition duration-500 transform hover:-translate-y-1 hover:scale-110">
 
               <div class="h-auto w-full hover:shadow-inner pt-2">
                 <img class="order-1 rounded-full w-24 h-22 border-gray-100 shadow-small" src={process.env.PUBLIC_URL + `${image}`}/>

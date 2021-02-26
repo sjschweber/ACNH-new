@@ -22,7 +22,7 @@ function App() {
   return (
     <div class="text-center" style={{textAlign: "-webkit-center"}}>
       <div class="font-sans text-3xl text-center text-yellow-600 w-full h-20">
-        ACNH Villager Search
+        <p class="bounce-finite">ACNH Villager Search</p>
       </div>
         <form>
           <select class="m-4 rounded" onChange={onChange}>
