@@ -28,6 +28,7 @@ function App() {
           <select class="m-4 rounded" onChange={onChange}>
             <option>High to Low</option>
             <option>Low to High</option>
+            <option>Species (A-Z)</option>
           </select>
           <input type="text" placeholder="search" class="rounded m-4" onChange={handleTextChange}></input>
         </form>

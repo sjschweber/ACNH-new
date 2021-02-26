@@ -328,6 +328,96 @@ const data = [
     ranking: "D",
     image: "/media/twiggy.png"
   },
+  {
+    name: "Stu",
+    personality: "Lazy",
+    catchphrase: "moo-dude",
+    ranking: "B",
+    image: "/media/stu.png"
+  },
+  {
+    name: "Rodeo",
+    personality: "Lazy",
+    catchphrase: "chaps",
+    ranking: "C",
+    image: "/media/rodeo.png"
+  },
+  {
+    name: "Vic",
+    personality: "Cranky",
+    catchphrase: "cud",
+    ranking: "C",
+    image: "/media/vic.png"
+  },
+  {
+    name: "Angus",
+    personality: "Cranky",
+    catchphrase: "macmoo",
+    ranking: "D",
+    image: "/media/angus.png"
+  },
+  {
+    name: "Coach",
+    personality: "Jock",
+    catchphrase: "stubble",
+    ranking: "D",
+    image: "/media/coach.png"
+  },
+  {
+    name: "T-Bone",
+    personality: "Cranky",
+    catchphrase: "moocher",
+    ranking: "D",
+    image: "/media/t-bone.png"
+  },
+  {
+    name: "Ankha",
+    personality: "Snooty",
+    catchphrase: "me meow",
+    ranking: " S",
+    type: "Cat",
+    image: "/media/ankha.png"
+  },
+  {
+    name: "Raymond",
+    personality: "Smug",
+    catchphrase: "crisp",
+    ranking: " S",
+    type: "Cat",
+    image: "/media/raymond.png"
+  },
+  {
+    name: "Bob",
+    personality: "Lazy",
+    catchphrase: "pthhhpth",
+    ranking: " S",
+    type: "Cat",
+    image: "/media/bob.png"
+  },
+  {
+    name: "Felicity",
+    personality: "Peppy",
+    catchphrase: "mimimi",
+    ranking: "A",
+    type: "Cat",
+    image: "/media/felicity.png"
+  },
+  {
+    name: "Lolly",
+    personality: "Normal",
+    catchphrase: "bonbon",
+    ranking: "A",
+    type: "Cat",
+    image: "/media/lolly.png"
+  },
+  {
+    name: "Punchy",
+    personality: "Lazy",
+    catchphrase: "mrmpht",
+    ranking: "A",
+    type: "Cat",
+    image: "/media/punchy.png"
+  },
 
   {
     name: "Lucky",
@@ -336,13 +426,7 @@ const data = [
     type: "Dog",
     image: "/media/lucky_face.png"
   },
-  {
-    name: "Raymond",
-    personality: "Smug",
-    ranking: " S",
-    type: "Cat",
-    image: "/media/raymond.png"
-  }
+
 ];
 
 export {data};
